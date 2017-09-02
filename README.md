@@ -3,4 +3,4 @@ nyan cat attak!
 
 save this file in /bin
 
-![Screenshot](nyan.jpg)
+![alt tag](nyan.png)
